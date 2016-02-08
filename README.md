@@ -229,6 +229,8 @@ To see one solution, check out the [solution](https://github.com/sf-wdi-25/angul
 
 ## Challenges
 
+Lets jump over to the [Custom Directives Lab](https://github.com/sf-wdi-25/angular_custom_directives_lab) and continue our angular quest!
+
 Work on the <a href="https://github.com/sf-wdi-25/intro-angular-lab" target="_blank">Intro Angular Lab</a> (which is also tonight's homework).
 
 ## Resources
