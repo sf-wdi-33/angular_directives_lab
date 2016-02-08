@@ -45,7 +45,7 @@ Assume you have the following Angular app set up for a trainer to manage their P
 	<script type="text/javascript" src="app.js"></script>
 
   </head>
-  <body data-ng-controller="PokemonCtrl as pokemon">
+  <body data-ng-controller="PokemonController as pokemon">
 
 	  ...
 
@@ -60,7 +60,7 @@ And here is the JavaScript code that initializes your Angular app and adds the c
 
 angular
   .module('pokemonApp', [])
-  .controller('PokemonCtrl', PokemonCtrl);
+  .controller('PokemonController', PokemonController);
 
   function PokemonCtrl () {
 
@@ -103,7 +103,7 @@ You want the user to be able to input their name in a form field so that the app
 ```html
 <!-- index.html -->
 
-<body data-ng-controller="PokemonCtrl as pokemon">
+<body data-ng-controller="PokemonController as pokemon">
 
   <h2>Trainer: {{pokemon.trainer.name}}</h2>
 
@@ -133,7 +133,7 @@ You can set a default value in the Angular templating parameters:
 ```html
 <!-- index.html -->
 
-<body data-ng-controller="PokemonCtrl as pokemon">
+<body data-ng-controller="PokemonController as pokemon">
 
   <h2>Trainer: {{pokemon.trainer.name || "Ash"}}</h2>
 
@@ -223,6 +223,9 @@ You can use the <a href="https://docs.angularjs.org/api/ng/filter/filter" target
 
 </body>
 ```
+
+To see one solution, check out the [solution](https://github.com/sf-wdi-25/angular_directives_lab/tree/solution) branch.
+
 
 ## Challenges
 
