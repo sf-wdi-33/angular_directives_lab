@@ -2,9 +2,9 @@
 
 angular
   .module('pokemonApp', [])
-  .controller('PokemonCtrl', PokemonCtrl);
+  .controller('PokemonController', PokemonController);
 
-  function PokemonCtrl () {
+  function PokemonController() {
 
     var vm = this;
 
