@@ -224,6 +224,9 @@ You can use the <a href="https://docs.angularjs.org/api/ng/filter/filter" target
 </body>
 ```
 
+To see one solution, check out the [solution](https://github.com/sf-wdi-25/angular_directives_lab/tree/solution) branch.
+
+
 ## Challenges
 
 Work on the <a href="https://github.com/sf-wdi-25/intro-angular-lab" target="_blank">Intro Angular Lab</a> (which is also tonight's homework).
