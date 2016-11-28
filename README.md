@@ -23,7 +23,7 @@ Two more that you will use often:
 
 Here is a full <a href="https://docs.angularjs.org/api/ng/directive" target="_blank">list of Angular's built-in directives</a>.
 
-> **NOTE: To adhere to the most up-to-date styleguide, we will be prefixing our ng-directive tags with `data-` to pass HTML validators. Please refer to [this condensed & relevant Angular styleguide](https://github.com/sf-wdi-33/angular_style_guide) for further information.**
+> **NOTE: To adhere to the most up-to-date styleguide, please refer to [this condensed & relevant Angular styleguide](https://github.com/sf-wdi-33/angular_style_guide) for further information.**
 
 
 ### ngModel
