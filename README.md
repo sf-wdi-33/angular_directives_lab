@@ -231,7 +231,7 @@ Lets jump over to the [Custom Directives Lab](https://github.com/sf-wdi-25/angul
 
 ## Challenges
 
-Work on the <a href="https://github.com/sf-wdi-25/angular-movie-lab" target="_blank">Angular Movie Lab</a> (which is also tonight's homework).
+Work on the <a href="https://github.com/sf-wdi-33/angular-movie-lab" target="_blank">Angular Movie Lab</a> (which is also tonight's homework).
 
 ## Resources
 
